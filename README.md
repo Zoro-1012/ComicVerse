@@ -27,18 +27,6 @@ This project integrates the **tile design + font styling** from *Comicverse Hub*
 
 ---
 
----
-
-## 📸 Screenshots
-
-> 📌 **Add your screenshots below**  
-> Recommended format:  
-> - Homepage  
-> - Tile/card UI  
-> - Mobile view  
-> - Before/after comparison  
-> - Any unique features
-
 ### 🏠 Home Page  
 
 <img width="1470" height="792" alt="Screenshot 2025-11-17 at 5 22 05 PM" src="https://github.com/user-attachments/assets/81f33f3e-ac86-407b-a618-59eb3314fa99" />
